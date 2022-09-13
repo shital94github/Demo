@@ -6,7 +6,7 @@ public class AarayListDemo {
 
 	public static void main(String[] args) {
 		
-List<String>list= Arrays.asList("Shita","rahul","pihu","SAMU","JUNU");
+List<String>list= Arrays.asList("Shital","rahul","pihu","SAMU","JUNU");
 Iterator<String> iterator = list.iterator();
 while(iterator.hasNext()) {
 	System.out.println(iterator.next());
