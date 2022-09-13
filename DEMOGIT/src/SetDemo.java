@@ -9,8 +9,8 @@ public class SetDemo {
 		set.add(5);
 		set.add(7);
 		set.add(5);
-		for(Integer i:set) {
-			System.out.println(i);
+		for(Integer j:set) {
+			System.out.println(j);
 		}
 
 	}
